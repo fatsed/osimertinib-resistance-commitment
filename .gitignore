@@ -218,3 +218,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Research data
+data/raw/
+data/processed/
+
+# Downloaded reference papers
+References/
+
+# Large/raw sequencing files
+*.tar
+*.gz
+*.fastq
+*.fastq.gz
+
+# Temporary Word files
+~$*
+*.tmp
