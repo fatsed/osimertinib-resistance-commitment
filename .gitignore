@@ -235,3 +235,5 @@ References/
 # Temporary Word files
 ~$*
 *.tmp
+
+*_family.soft.gz
