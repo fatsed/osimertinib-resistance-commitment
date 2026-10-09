@@ -157,11 +157,18 @@ results/
     persistence/
 
 scripts/
+```
 
 Large raw datasets and local processed-data files are excluded from version control.
-Tools
+
+## Tools
+
 Python is used for data handling, metadata processing, quality control, PCA, cross-dataset analysis, visualization, and later machine-learning analyses.
+
 R is currently used where methodologically appropriate for differential expression analysis with limma-voom.
-Status
+
+## Status
+
 Work in progress.
+
 The current repository contains the completed first-stage analysis of GSE193258. Additional datasets and validation stages will be added progressively.
