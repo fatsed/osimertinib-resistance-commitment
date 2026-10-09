@@ -237,3 +237,4 @@ References/
 *.tmp
 
 *_family.soft.gz
+.Rproj.user
