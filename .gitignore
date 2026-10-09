@@ -238,3 +238,10 @@ References/
 
 *_family.soft.gz
 .Rproj.user
+
+# R local files
+.RData
+.Rhistory
+
+# Private manuscript drafts
+docs/*.docx
